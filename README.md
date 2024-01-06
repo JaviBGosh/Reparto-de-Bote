@@ -25,4 +25,4 @@ Esta es una aplicación web simple construida con Flet para administrar y calcul
 Para ejecutar la aplicación, simplemente ejecuta el script Python en tu terminal:
 
 ```bash
-python nombre_del_script.py
+python main.py
